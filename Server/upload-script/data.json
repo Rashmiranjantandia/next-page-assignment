@@ -1,0 +1,53 @@
+{
+ "Course" : [
+                { "1":  {
+                        "name": "java",
+                        "date": "Wed July 07 2021",
+                        "time": "05:00 PM PST - 07:00 PM PST",
+                        "availability": "4"
+                    }},
+                { "2": {
+                        "name": "python",
+                        "date": "Mon July 12 2021",
+                        "time": "04:00 PM PST - 06:00 PM PST",
+                        "availability": "3"
+                    }},
+                { "3":  {
+                        "name": "HTML",
+                        "date": "Fri July 16 2021",
+                        "time": "09:00 AM PST - 11:00 AM PST",
+                        "availability": "0"
+                    }},
+                { "4":  {
+                        "name": "python",
+                        "date": "Mon July 19 2021",
+                        "time": "04:00 PM PST - 06:00 PM PST",
+                        "availability": "4"
+                    }},
+                { "5":  {
+                        "name": "java",
+                        "date": "Wed July 14 2021",
+                        "time": "05:00 PM PST - 07:00 PM PST",
+                        "availability": "3"
+                    }},
+                { "6":  {
+                        "name": "HTML",
+                        "date": "Sat July 17 2021",
+                        "time": "09:00 AM PST - 11:00 AM PST",
+                        "availability": "2"
+                    }},
+                { "7":  {
+                        "name": "java",
+                        "date": "Wed July 21 2021",
+                        "time": "05:00 PM PST - 07:00 PM PST",
+                        "availability": "0"
+                    }},
+                { "8":  {
+                        "name": "python",
+                        "date": "Mon July 26 2021",
+                        "time": "04:00 PM PST - 06:00 PM PST",
+                        "availability": "0"
+                    }}
+                
+    ]
+}

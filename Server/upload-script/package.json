@@ -1,0 +1,14 @@
+{
+  "name": "upload-script",
+  "version": "1.0.0",
+  "description": "script data for Next Page Classroom ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rashmi Ranjan",
+  "license": "ISC",
+  "dependencies": {
+    "firestore-export-import": "^0.15.0"
+  }
+}
